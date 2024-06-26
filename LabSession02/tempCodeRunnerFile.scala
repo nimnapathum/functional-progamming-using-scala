@@ -1,1 +1,0 @@
-(15 - ticket_price) / 5
