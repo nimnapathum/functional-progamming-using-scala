@@ -47,5 +47,5 @@ def line(i: Int):Unit={
 }
 
 def triangle(i: Int): Unit={
-    if(i>1) triangle()
+    if(i>1) triangle(i)
 }

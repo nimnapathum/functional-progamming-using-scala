@@ -71,9 +71,9 @@ def tax(amount: Double):Double={
     }
 }
 
-def income(hours: Int):Double={
-    hours * 500
-}
+// def income(hours: Int):Double={
+//     hours * 500
+// }
 
 def netpay(hours: Int):Double={
     income(hours) - tax(income(hours)) 
