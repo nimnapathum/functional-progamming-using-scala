@@ -4604,3 +4604,496 @@ WARNING: Unmatched cancel notification for request id 6972
 2024.06.30 23:15:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.34s
 2024.06.30 23:15:07 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
 2024.06.30 23:15:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.06.30 23:19:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.06.30 23:19:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.52s
+2024.06.30 23:19:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.06.30 23:19:30 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:30 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:19:34 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:34 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.06.30 23:19:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:19:37 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:37 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.23s
+2024.06.30 23:19:40 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:40 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:19:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.06.30 23:19:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:19:49 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:49 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:19:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:19:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:20:00 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:00 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:20:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+2024.06.30 23:20:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:20:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:20:45 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:20:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:20:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.06.30 23:20:57 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:20:57 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.94s
+2024.06.30 23:21:00 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:00 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+2024.06.30 23:21:02 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:02 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:21:14 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:14 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:21:18 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:18 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:21:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.06.30 23:21:24 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:21:28 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:28 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.22s
+2024.06.30 23:21:30 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:30 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:21:32 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:32 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.24s
+2024.06.30 23:21:38 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:38 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.06.30 23:21:40 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:40 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:21:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:21:51 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:51 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:21:52 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:52 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:21:57 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:21:57 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.06.30 23:22:17 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:22:17 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.06.30 23:23:00 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:00 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.65s
+2024.06.30 23:23:02 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:02 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.57s
+2024.06.30 23:23:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:23:07 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.49s
+2024.06.30 23:23:11 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:11 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.06.30 23:23:20 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:20 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.44s
+2024.06.30 23:23:25 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:25 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.06.30 23:23:45 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.41s
+2024.06.30 23:23:53 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"sumofevens)
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:23:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.22s
+2024.06.30 23:23:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:23:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:24:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:24:06 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:06 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:24:08 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:08 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : sumofevens)
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:08 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:24:08 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : sumofevens)
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:09 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:09 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:24:09 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : &sumofevens)
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:10 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : sumofevens)
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:11 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : $sumofevens)
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Jun 30, 2024 11:24:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8594
+2024.06.30 23:24:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:24:12 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string interpolation
+        println(s"Sum of the List : $sumofevens)
+                                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:12 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:24: error: unclosed string literal
+        println(s"Sum of the List : $sumofevens"")
+                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:14 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:14 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:24:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:24:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.36s
+2024.06.30 23:24:22 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+2024.06.30 23:24:23 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:22 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+2024.06.30 23:24:23 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+2024.06.30 23:24:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.49s
+2024.06.30 23:24:26 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:26 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.06.30 23:24:29 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:29 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.49s
+2024.06.30 23:24:36 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:36 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.06.30 23:24:37 ERROR Failed to tokenize input for semantic tokens for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala
+scala.meta.tokenizers.TokenizeException: <input>:25: error: unclosed string interpolation
+        println(s"Sum of the List using recursion: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.30 23:24:38 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:38 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.29s
+2024.06.30 23:24:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.27s
+2024.06.30 23:24:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.06.30 23:24:45 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.36s
+2024.06.30 23:24:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.27s
+2024.06.30 23:24:48 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:48 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.11s
+2024.06.30 23:24:52 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:24:52 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.06.30 23:34:23 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.06.30 23:34:23 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+Jun 30, 2024 11:34:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8992
+Jun 30, 2024 11:34:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8993
+2024.06.30 23:34:27 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:27 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:34:33 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:33 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:34:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.06.30 23:34:40 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:40 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.06.30 23:34:42 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:42 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.45s
+2024.06.30 23:34:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:34:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.06.30 23:34:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+Jun 30, 2024 11:34:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\.reports\metals-full\2024-06-30\r_compiler-error_(Functional-Progamming-Practicals_f4dd477a3a)_23-34-51-555.md
+2024.06.30 23:34:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:34:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:35:00 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:00 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.68s
+2024.06.30 23:35:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.06.30 23:35:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.42s
+2024.06.30 23:35:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.48s
+2024.06.30 23:35:33 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:33 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.71s
+2024.06.30 23:35:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.74s
+2024.06.30 23:35:37 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:37 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.52s
+Jun 30, 2024 11:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9415
+2024.06.30 23:35:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.06.30 23:35:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:35:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.06.30 23:37:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.51s
+2024.06.30 23:37:20 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:20 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.5s
+2024.06.30 23:37:37 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:37 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.42s
+2024.06.30 23:37:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.76s
+2024.06.30 23:37:50 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:50 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.06.30 23:37:53 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:37:53 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.21s
+Jun 30, 2024 11:37:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9674
+2024.06.30 23:38:01 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:01 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.24s
+2024.06.30 23:38:04 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:04 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.06.30 23:38:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.06.30 23:38:07 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.34s
+Jun 30, 2024 11:38:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9746
+Jun 30, 2024 11:38:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9748
+2024.06.30 23:38:11 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:11 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.06.30 23:38:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.06.30 23:38:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.06.30 23:38:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:20 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.17s
+2024.06.30 23:38:33 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:33 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.45s
+2024.06.30 23:38:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.06.30 23:38:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.06.30 23:38:50 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.06.30 23:38:50 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.59s
