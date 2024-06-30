@@ -1,4 +1,4 @@
-object qustion01{
+object question01{
     def main(args: Array[String]): Unit={
 
         var k , i , j = 2;
