@@ -1,0 +1,47 @@
+2024.07.02 07:55:58 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1c52f285]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@32cdc1da]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1c52f285]
+2024.07.02 07:55:58 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 07:56:00 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 07:56:02 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 07:56:03 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 07:56:10 INFO  Running List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03)
+2024.07.02 07:56:11 INFO  Attempting to connect to the build server...
+2024.07.02 07:56:11 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03)
+2024.07.02 07:56:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.02 07:56:14 INFO  BSP server: Starting compilation server
+2024.07.02 07:56:21 INFO  time: Connected to build server in 9.44s
+2024.07.02 07:56:21 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.02 07:56:21 INFO  time: Imported build in 0.38s
+2024.07.02 07:56:22 INFO  compiling labsession03_f4dd477a3a (4 scala sources)
+2024.07.02 07:56:29 INFO  time: compiled LabSession03_f4dd477a3a in 6.98s
+2024.07.02 07:56:29 INFO  time: indexed workspace in 7.68s
+Jul 02, 2024 8:22:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2024.07.02 10:55:17 INFO  Shutting down server
+2024.07.02 10:55:17 INFO  shutting down Metals
+2024.07.02 10:55:18 INFO  Shut down connection with build server.
+2024.07.02 10:55:17 INFO  Exiting server
+2024.07.02 13:18:37 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@ba741c1]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2c7242a2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@ba741c1]
+2024.07.02 13:18:38 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 13:18:41 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 13:18:42 INFO  Attempting to connect to the build server...
+2024.07.02 13:18:42 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03)
+2024.07.02 13:18:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession03\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.02 13:18:57 INFO  BSP server: Starting compilation server
+2024.07.02 13:19:07 INFO  time: Connected to build server in 25s
+2024.07.02 13:19:07 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.02 13:19:07 INFO  time: Imported build in 0.28s
+2024.07.02 13:19:12 INFO  time: indexed workspace in 4.42s
+2024.07.02 13:19:47 INFO  Shutting down server
+2024.07.02 13:19:47 INFO  shutting down Metals
+2024.07.02 13:19:47 INFO  Shut down connection with build server.
+2024.07.02 13:19:47 INFO  Exiting server
