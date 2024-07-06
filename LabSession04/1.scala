@@ -17,7 +17,7 @@ object question_4_01{
         for (nm <- names){
             if(nm == name){
               quantities(names.indexOf(nm)) += qty  
-              return (s"Successfully added items to $name")
+              return s"Successfully added items to $name"
             }
         }
         (s"$name not found in the existing inventories!!")
@@ -27,10 +27,10 @@ object question_4_01{
         for (nm <- names){
             if(nm == name){
                 if(quantities(names.indexOf(nm)) < qty){
-                    return (s"Not enough items: $name")
+                    return s"Not enough items: $name"
                 }else{
                     quantities(names.indexOf(nm)) -= qty  
-                    return (s"Successfully sell $qty $name items")
+                    return s"Successfully sell $qty $name items"
                 }
             }
         }
