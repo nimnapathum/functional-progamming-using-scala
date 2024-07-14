@@ -44,24 +44,31 @@ object question_4_01{
         displayInventory()
         println()
 
-        println(restockItem("Book" , 5)) //restock items when already existing product
+        println(restockItem("Pen" , 7))
         displayInventory()
-        println()
 
-        println(restockItem("Ruler" , 2)) //restock items when not a already existing item
-        displayInventory()
-        println()
+        println(restockItem("Erases" , 5))
+        
+        // println()
 
-        println(sellItem("Book" , 5)) // sell items when it is enough items
-        displayInventory()
-        println()
+        // println(restockItem("Book" , 5)) //restock items when already existing product
+        // displayInventory()
+        // println()
 
-        println(sellItem("Book" , 20)) // sell items when it is not enough items
-        displayInventory()
-        println()
+        // println(restockItem("Ruler" , 2)) //restock items when not a already existing item
+        // displayInventory()
+        // println()
 
-        println(sellItem("Ruler" , 5)) // sell items when not a already existing item
-        displayInventory()
-        println()
+        // println(sellItem("Book" , 5)) // sell items when it is enough items
+        // displayInventory()
+        // println()
+
+        // println(sellItem("Book" , 20)) // sell items when it is not enough items
+        // displayInventory()
+        // println()
+
+        // println(sellItem("Ruler" , 5)) // sell items when not a already existing item
+        // displayInventory()
+        // println()
     }
 }
