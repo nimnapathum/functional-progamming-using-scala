@@ -2,9 +2,12 @@ object question_5_01{
     def getProductList():List[String]={
         var products: List[String] = List()
         var product: String = ""
+        var i = 1
+        product = scala.io.StdIn.readLine(s"Product 1: ")
         while(!(product == "done")){
-            product = scala.io.StdIn.readLine(s"Product ${i+1}: ")
             products = products :+ product
+            product = scala.io.StdIn.readLine(s"Product ${i+1}: ")
+            i += 1
         }
         products
     }
