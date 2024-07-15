@@ -10355,3 +10355,52 @@ scala.meta.tokenizers.TokenizeException: <input>:35: error: invalid escape chara
 2024.07.14 23:12:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
 2024.07.14 23:12:25 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
 2024.07.14 23:12:25 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.07.14 23:15:17 INFO  Shutting down server
+2024.07.14 23:15:17 INFO  shutting down Metals
+2024.07.14 23:15:17 INFO  Shut down connection with build server.
+2024.07.14 23:15:17 INFO  Exiting server
+2024.07.15 14:40:16 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7afcaf21]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@3b2ee474]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7afcaf21]
+2024.07.15 14:40:17 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 14:40:18 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 14:40:19 INFO  Attempting to connect to the build server...
+2024.07.15 14:40:19 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.07.15 14:40:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 14:40:24 INFO  BSP server: Starting compilation server
+2024.07.15 14:40:31 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 14:40:32 INFO  time: Connected to build server in 13s
+2024.07.15 14:40:32 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.15 14:40:33 INFO  time: Imported build in 0.19s
+2024.07.15 14:40:33 INFO  running doctor check
+2024.07.15 14:40:33 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.07.15 14:40:37 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 14:40:37 INFO  time: indexed workspace in 4.72s
+2024.07.15 14:44:20 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:44:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 4.44s
+2024.07.15 14:44:53 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:44:53 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.69s
+2024.07.15 14:44:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:44:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 2s
+2024.07.15 14:44:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:44:58 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.53s
+2024.07.15 14:44:58 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:44:59 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.07.15 14:45:01 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:45:01 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.96s
+2024.07.15 14:45:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:45:06 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 2.32s
+2024.07.15 14:45:06 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala
+2024.07.15 14:45:06 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:45:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.67s
+2024.07.15 14:45:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:45:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.47s
+2024.07.15 14:45:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.15 14:45:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.07.15 15:30:47 INFO  Shutting down server
+2024.07.15 15:30:47 INFO  shutting down Metals
+2024.07.15 15:30:47 INFO  Shut down connection with build server.
+2024.07.15 15:30:47 INFO  Exiting server
