@@ -10404,3 +10404,97 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7afcaf2
 2024.07.15 15:30:47 INFO  shutting down Metals
 2024.07.15 15:30:47 INFO  Shut down connection with build server.
 2024.07.15 15:30:47 INFO  Exiting server
+2024.07.16 08:05:05 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1bfb4db9]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@10ddd553]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1bfb4db9]
+2024.07.16 08:05:06 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:05:08 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:05:09 INFO  Attempting to connect to the build server...
+2024.07.16 08:05:09 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.07.16 08:05:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 08:05:15 INFO  BSP server: Starting compilation server
+2024.07.16 08:05:25 INFO  time: Connected to build server in 16s
+2024.07.16 08:05:25 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.16 08:05:25 INFO  time: Imported build in 0.31s
+2024.07.16 08:05:25 INFO  running doctor check
+2024.07.16 08:05:25 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.07.16 08:05:27 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.16 08:05:32 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:05:32 INFO  time: indexed workspace in 7.76s
+2024.07.16 08:05:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 7.96s
+Jul 16, 2024 8:09:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 16, 2024 8:11:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2024.07.16 08:14:07 INFO  Shutting down server
+2024.07.16 08:14:07 INFO  shutting down Metals
+2024.07.16 08:14:07 INFO  Shut down connection with build server.
+2024.07.16 08:14:07 INFO  Exiting server
+2024.07.16 09:13:30 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@77cf1a41]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4175c959]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@77cf1a41]
+2024.07.16 09:13:31 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 09:13:32 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:32 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:33 INFO  Attempting to connect to the build server...
+2024.07.16 09:13:33 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.07.16 09:13:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 09:13:36 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:39 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:39 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:39 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:41 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:41 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:42 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:13:43 INFO  time: Connected to build server in 9.61s
+2024.07.16 09:13:43 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.16 09:13:43 INFO  time: Imported build in 0.12s
+2024.07.16 09:13:43 INFO  running doctor check
+2024.07.16 09:13:43 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.07.16 09:13:46 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 09:13:46 INFO  time: indexed workspace in 4.41s
+Jul 16, 2024 9:15:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+Jul 16, 2024 9:34:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 434
+2024.07.16 09:35:31 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.16 09:35:31 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.82s
+Jul 16, 2024 9:35:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 483
+2024.07.16 09:35:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.16 09:35:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.96s
+2024.07.16 09:36:08 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.07.16 09:36:09 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.2s
+2024.07.16 09:48:37 INFO  Shutting down server
+2024.07.16 09:48:37 INFO  shutting down Metals
+2024.07.16 09:48:37 INFO  Shut down connection with build server.
+2024.07.16 09:48:37 INFO  Exiting server
+2024.07.22 13:17:51 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2478b3c9]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@f662271]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2478b3c9]
+2024.07.22 13:17:53 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.22 13:17:55 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession05\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.22 13:17:55 INFO  Attempting to connect to the build server...
+2024.07.22 13:17:55 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.07.22 13:17:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.22 13:18:04 INFO  BSP server: Starting compilation server
+2024.07.22 13:18:24 INFO  time: Connected to build server in 28s
+2024.07.22 13:18:24 INFO  Connected to Build server: scala-cli v1.3.1
+2024.07.22 13:18:24 INFO  time: Imported build in 0.19s
+2024.07.22 13:18:24 INFO  running doctor check
+2024.07.22 13:18:24 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.07.22 13:18:35 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.22 13:18:35 INFO  time: indexed workspace in 11s
+2024.07.22 14:39:01 INFO  Shutting down server
+2024.07.22 14:39:01 INFO  shutting down Metals
+2024.07.22 14:39:01 INFO  Shut down connection with build server.
+2024.07.22 14:39:01 INFO  Exiting server
