@@ -44,6 +44,16 @@ object question_6_02 {
     }
   }
 
+  def validateInput_(name: String , marks: Int): ( Boolean, Option[String]) = {
+    if (name.isBlank) {
+      return (false, Some("Name cannot be empty."))
+    }
+    if (marks >= 0 && marks <= 100) {
+      return (false, Some("Marks must be between 0 and the total possible marks."))
+    }
+    (true, None)
+  }
+
   def checkMarks(marks: Int): Int = {
     if (marks >= 0 && marks <= 100) {
       marks
