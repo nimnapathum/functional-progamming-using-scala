@@ -8,8 +8,14 @@ object questions {
     list.map(num => num * num)
   }
 
+  def isPrime(n: Int): Boolean = {
+    if (n <= 1) false
+    else if (n == 2) true
+    else !(2 to math.sqrt(n).toInt).exists(x => n % x == 0)
+  }
+
   def filterPrime(list: List[Int]): List[Int] = {
-    list.filter(num => num < 4 || (num % 2 != 0 && num % 3 != 0))
+    list.filter(num => isPrime(num))
   }
 
   def main(args: Array[String]): Unit = {
