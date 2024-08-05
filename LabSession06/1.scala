@@ -75,3 +75,5 @@ object question_6_01{
         println(s"\nIs product with ID 2 in inventory 1: ${checkProduct(2 , inventory1)}")
     }
 }
+
+
