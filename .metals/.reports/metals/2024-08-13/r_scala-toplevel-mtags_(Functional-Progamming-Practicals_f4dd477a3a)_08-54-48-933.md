@@ -1,4 +1,4 @@
-object question_8_01{
+error id: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession08/1.scala:[881..884) in Input.VirtualFile("file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession08/1.scala", "object question_8_01{
     
     def encrypt(text: String , shifter: Int): String = {
         text.map(c => (c + shifter).toChar)
@@ -30,16 +30,22 @@ object question_8_01{
         )
     }
 
-    def cipher(text: String , shifter: Int , cipher_function: (String , Int) => String ): String = {
-        cipher_function(text , shifter)
-    }
+    def 
 
     def main(args: Array[String]): Unit={
-        val text = "apple"
+        val text = "Hello Scala"
         println(s"Original Text : ${text}")
-        val encrypted_text = encrypt_alpha(text , 50) 
+        val encrypted_text = encrypt_alpha(text , 1) 
         println(s"Encrypted Text : ${encrypted_text}")
-        println(s"Decrypted Text : ${decrypt_alpha(encrypted_text , 50)}")
+        println(s"Decrypted Text : ${decrypt_alpha(encrypted_text , 1)}")
     }
 }
 
+")
+file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession08/1.scala
+file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession08/1.scala:35: error: expected identifier; obtained def
+    def main(args: Array[String]): Unit={
+    ^
+#### Short summary: 
+
+expected identifier; obtained def
