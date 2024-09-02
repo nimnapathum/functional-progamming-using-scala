@@ -16650,3 +16650,510 @@ Aug 18, 2024 5:42:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 8716
 Aug 18, 2024 5:42:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 8741
+2024.08.18 17:43:48 INFO  Shutting down server
+2024.08.18 17:43:48 INFO  shutting down Metals
+2024.08.18 17:43:48 INFO  Shut down connection with build server.
+2024.08.18 17:43:48 INFO  BSP server: Aug 18, 2024 5:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.18 17:43:48 INFO  BSP server: WARNING: Notification threw an exception: {
+2024.08.18 17:43:48 INFO  BSP server:   "jsonrpc": "2.0",
+2024.08.18 17:43:48 INFO  BSP server:   "method": "build/exit",
+2024.08.18 17:43:48 INFO  BSP server:   "params": null
+2024.08.18 17:43:48 INFO  BSP server: }
+2024.08.18 17:43:48 INFO  BSP server: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+2024.08.18 17:43:48 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+2024.08.18 17:43:48 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+2024.08.18 17:43:48 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+2024.08.18 17:43:48 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+2024.08.18 17:43:48 INFO  Exiting server
+2024.09.01 10:58:52 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@77f62b56]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1d74e5c8]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@77f62b56]
+2024.09.01 10:58:53 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.01 10:58:54 INFO  Attempting to connect to the build server...
+2024.09.01 10:58:54 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.09.01 10:58:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.01 10:58:55 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.01 10:58:58 INFO  BSP server: Starting compilation server
+2024.09.01 10:59:04 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 10:59:20 INFO  time: Connected to build server in 25s
+2024.09.01 10:59:20 INFO  Connected to Build server: scala-cli v1.3.1
+2024.09.01 10:59:20 INFO  time: Imported build in 0.2s
+2024.09.01 10:59:20 INFO  running doctor check
+2024.09.01 10:59:20 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.01 10:59:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 3.32s
+2024.09.01 10:59:27 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.01 10:59:27 INFO  time: indexed workspace in 7.9s
+2024.09.01 10:59:33 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 10:59:34 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 10:59:37 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.01 10:59:37 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.01 10:59:38 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:37 INFO  running doctor check
+2024.09.01 10:59:37 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.01 10:59:38 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:38 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.59s
+2024.09.01 10:59:40 INFO  time: indexed workspace in 2.27s
+2024.09.01 10:59:41 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:42 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:43 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:44 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.01 10:59:44 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:45 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:45 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:45 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:47 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:47 ERROR C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:709)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:247)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.09.01 10:59:48 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:48 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.51s
+2024.09.01 10:59:48 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 10:59:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:57 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.5s
+2024.09.01 10:59:58 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala
+2024.09.01 10:59:57 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 10:59:58 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.61s
+2024.09.01 11:00:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:00:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.41s
+2024.09.01 11:00:05 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala
+2024.09.01 11:00:06 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:00:06 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala
+2024.09.01 11:00:06 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.51s
+2024.09.01 11:00:07 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:00:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.01 11:00:31 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 11:00:33 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 11:00:35 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/1.scala
+2024.09.01 11:00:36 ERROR C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\1.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:709)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:247)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.09.01 11:00:37 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:37 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.34s
+2024.09.01 11:00:39 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:39 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.24s
+2024.09.01 11:00:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.21s
+2024.09.01 11:00:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:00:51 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:51 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:00:53 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:00:53 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.24s
+Sep 01, 2024 11:01:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 300
+2024.09.01 11:01:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.09.01 11:01:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.09.01 11:01:17 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:17 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.09.01 11:01:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.29s
+2024.09.01 11:01:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.21s
+2024.09.01 11:01:23 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.09.01 11:01:29 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:29 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.09.01 11:01:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:01:57 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:57 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+2024.09.01 11:01:59 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:01:59 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:02:01 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:01 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:02:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.09.01 11:02:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+2024.09.01 11:02:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:06 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.23s
+2024.09.01 11:02:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:02:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.17s
+2024.09.01 11:02:18 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:18 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:02:57 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:02:57 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:04:26 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:26 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:04:28 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 11:04:29 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:29 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 96ms
+2024.09.01 11:04:29 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.01 11:04:32 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:32 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:04:34 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:34 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.18s
+2024.09.01 11:04:38 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:39 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.3s
+2024.09.01 11:04:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:42 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.65s
+2024.09.01 11:04:42 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.25s
+2024.09.01 11:04:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.61s
+2024.09.01 11:04:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.81s
+2024.09.01 11:04:50 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:50 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.55s
+2024.09.01 11:04:51 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:51 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.43s
+2024.09.01 11:04:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:04:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.39s
+2024.09.01 11:05:01 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:01 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.01 11:05:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.09.01 11:05:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.01 11:05:20 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:20 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.29s
+2024.09.01 11:05:24 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.01 11:05:26 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:26 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.09.01 11:05:28 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:28 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.35s
+2024.09.01 11:05:31 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:31 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.01 11:05:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.01 11:05:39 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:39 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.01 11:05:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.01 11:05:50 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:50 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.01 11:05:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:05:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.01 11:06:04 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:04 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.01 11:06:14 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:14 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.01 11:06:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.01 11:06:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.01 11:06:27 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:27 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.31s
+2024.09.01 11:06:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.01 11:06:39 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:39 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.09.01 11:06:42 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:42 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.01 11:06:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:06:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:06:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.09.01 11:07:02 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:02 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.09.01 11:07:08 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:08 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.09.01 11:07:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.09.01 11:07:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.16s
+2024.09.01 11:07:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.15s
+2024.09.01 11:07:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.14s
+2024.09.01 11:07:23 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.01 11:07:23 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.8s
+Sep 01, 2024 11:07:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1474
+2024.09.01 11:07:42 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:07:42 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.19s
+2024.09.01 11:07:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:07:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.09.01 11:08:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:08:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.01 11:08:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:08:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.41s
+2024.09.01 11:08:22 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.01 11:08:22 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.01 11:14:06 INFO  Shutting down server
+2024.09.01 11:14:06 INFO  shutting down Metals
+2024.09.01 11:14:06 INFO  Shut down connection with build server.
+2024.09.01 11:14:06 INFO  Exiting server
+2024.09.02 23:16:41 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1a53f6b4]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@162ca367]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1a53f6b4]
+2024.09.02 23:16:41 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.02 23:16:44 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 23:16:44 INFO  Attempting to connect to the build server...
+2024.09.02 23:16:44 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.scala-build\ide-options-v2.json, C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals)
+2024.09.02 23:16:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 23:16:48 INFO  BSP server: Starting compilation server
+2024.09.02 23:17:12 INFO  time: Connected to build server in 28s
+2024.09.02 23:17:12 INFO  Connected to Build server: scala-cli v1.3.1
+2024.09.02 23:17:13 INFO  time: Imported build in 0.17s
+2024.09.02 23:17:13 INFO  running doctor check
+2024.09.02 23:17:13 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.02 23:17:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.02 23:17:18 INFO  time: indexed workspace in 5.41s
+2024.09.02 23:22:08 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:22:11 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 3.34s
+2024.09.02 23:22:18 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:22:18 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.51s
+2024.09.02 23:22:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:22:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.51s
+2024.09.02 23:22:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:22:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.02 23:23:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:23:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.31s
+2024.09.02 23:23:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:23:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.02 23:23:33 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:23:33 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.27s
+2024.09.02 23:23:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:23:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.02 23:31:11 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:31:11 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.31s
+2024.09.02 23:31:18 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:31:18 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.25s
+2024.09.02 23:31:26 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:31:26 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.02 23:33:36 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:33:38 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.76s
+2024.09.02 23:33:40 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:33:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 1.29s
+2024.09.02 23:33:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:33:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.81s
+Sep 02, 2024 11:33:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 345
+Sep 02, 2024 11:35:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 381
+2024.09.02 23:35:45 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:35:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.93s
+2024.09.02 23:36:40 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:36:40 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.69s
+2024.09.02 23:36:42 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:36:42 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.6s
+2024.09.02 23:36:43 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:36:43 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.73s
+2024.09.02 23:36:49 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:36:49 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.02 23:36:54 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:36:54 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.2s
+2024.09.02 23:37:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:37:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.22s
+2024.09.02 23:37:12 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.02 23:37:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:37:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.47s
+2024.09.02 23:37:13 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.02 23:46:53 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 23:46:53 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 23:46:53 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/3.scala
+2024.09.02 23:46:53 INFO  running doctor check
+2024.09.02 23:46:53 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.02 23:46:53 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:46:53 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.26s
+2024.09.02 23:46:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:46:56 INFO  time: indexed workspace in 2.18s
+2024.09.02 23:46:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.86s
+2024.09.02 23:47:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.65s
+2024.09.02 23:47:20 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:20 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.53s
+2024.09.02 23:47:25 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:25 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.49s
+2024.09.02 23:47:31 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:31 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.48s
+2024.09.02 23:47:44 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:44 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.5s
+2024.09.02 23:47:52 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:52 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.09.02 23:47:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:47:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.09.02 23:48:00 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:00 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.44s
+2024.09.02 23:48:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.02 23:48:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.44s
+2024.09.02 23:48:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.02 23:48:27 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:27 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.39s
+2024.09.02 23:48:29 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:29 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.45s
+2024.09.02 23:48:37 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:37 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.02 23:48:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:48:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.02 23:51:03 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:51:03 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.45s
+2024.09.02 23:51:05 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:51:05 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.39s
+2024.09.02 23:51:07 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:51:07 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.09.02 23:51:09 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:51:09 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.36s
+2024.09.02 23:52:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:52:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.36s
+2024.09.02 23:54:48 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:54:48 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.44s
+2024.09.02 23:55:21 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 23:55:21 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 23:55:21 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/4.scala
+2024.09.02 23:55:21 INFO  running doctor check
+2024.09.02 23:55:21 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.02 23:55:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:55:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.23s
+2024.09.02 23:55:23 INFO  time: indexed workspace in 1.66s
+2024.09.02 23:55:23 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/4.scala
+2024.09.02 23:56:47 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:56:47 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.81s
+2024.09.02 23:56:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:56:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.58s
+2024.09.02 23:57:34 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/3.scala
+2024.09.02 23:57:35 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.02 23:57:35 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.56s
+2024.09.02 23:57:45 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:57:45 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.5s
+2024.09.02 23:58:06 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:06 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.46s
+2024.09.02 23:58:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.48s
+2024.09.02 23:58:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.45s
+2024.09.02 23:58:24 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.43s
+2024.09.02 23:58:27 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:27 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.43s
+2024.09.02 23:58:33 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:33 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.02 23:58:36 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:36 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.42s
+2024.09.02 23:58:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.43s
+2024.09.02 23:58:49 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:49 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.41s
+2024.09.02 23:58:53 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:53 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.39s
+Sep 02, 2024 11:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1573
+2024.09.02 23:58:56 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.02 23:58:56 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.43s
+2024.09.03 00:00:09 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:00:09 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.58s
+2024.09.03 00:00:13 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:00:13 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.4s
+2024.09.03 00:00:16 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:00:16 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.52s
+2024.09.03 00:02:14 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\5.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 00:02:14 INFO  no build target found for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\5.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 00:02:14 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/5.scala
+2024.09.03 00:02:15 INFO  running doctor check
+2024.09.03 00:02:15 INFO  java targets: Functional-Progamming-Practicals_f4dd477a3a-test, Functional-Progamming-Practicals_f4dd477a3a
+2024.09.03 00:02:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.03 00:02:16 INFO  time: indexed workspace in 1.82s
+2024.09.03 00:02:17 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:17 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.38s
+2024.09.03 00:02:17 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.03 00:02:18 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.03 00:02:24 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.03 00:02:24 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.21s
+2024.09.03 00:02:25 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\5.scala
+2024.09.03 00:02:26 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\5.scala
+2024.09.03 00:02:26 WARN  Could not load snapshot text for C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\LabSession10\5.scala
+2024.09.03 00:02:28 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.03 00:02:28 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.47s
+2024.09.03 00:02:29 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:29 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.03 00:02:31 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:31 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.31s
+2024.09.03 00:02:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.3s
+2024.09.03 00:02:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.03 00:02:50 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:50 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.34s
+Sep 03, 2024 12:02:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1857
+2024.09.03 00:02:55 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:02:55 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.03 00:03:04 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:03:04 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.31s
+2024.09.03 00:04:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:04:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.03 00:06:10 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:06:10 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.09.03 00:06:12 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:06:12 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.13s
+2024.09.03 00:06:15 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:06:15 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.12s
+2024.09.03 00:06:19 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:06:19 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.11s
+2024.09.03 00:06:21 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:06:21 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.32s
+2024.09.03 00:08:34 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:08:34 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.33s
+2024.09.03 00:08:35 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/2.scala
+2024.09.03 00:08:41 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:08:41 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.37s
+2024.09.03 00:08:44 WARN  Could not find semantic tokens for: file:///C:/Users/ASUS/Documents/GitHub/Functional-Progamming-Practicals/LabSession10/3.scala
+2024.09.03 00:08:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (1 scala source)
+2024.09.03 00:08:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.28s
+2024.09.03 00:08:46 INFO  compiling functional-progamming-practicals_f4dd477a3a (2 scala sources)
+2024.09.03 00:08:46 INFO  time: compiled Functional-Progamming-Practicals_f4dd477a3a in 0.21s
