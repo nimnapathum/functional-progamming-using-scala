@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\main.scala:39:18: Implicit definition should have explicit type (inferred akka.util.Timeout)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    implicit val timeout = Timeout(5 seconds)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m4 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

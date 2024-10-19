@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\helloakka_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloAkka$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\HelloAkka$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\HelloAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MsgSystem$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\MsgSystem$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MsgSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_1\target\scala-2.13\classes\MsgSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

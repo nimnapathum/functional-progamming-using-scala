@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\my-akka-project_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hash$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\Hash$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\Hash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HashSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\HashSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MSG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\MSG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MSG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\MSG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintHash$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\PrintHash$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintHash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ASUS\Documents\GitHub\Functional-Progamming-Practicals\Akka_\target\scala-2.13\classes\PrintHash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
